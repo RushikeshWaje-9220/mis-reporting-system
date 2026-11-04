@@ -1,0 +1,6 @@
+Data/raw/
+data/raw/
+*.pbix
+~$*
+excel/*.xlsx
+excel/*.xlsm
