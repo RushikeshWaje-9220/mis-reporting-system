@@ -1,4 +1,4 @@
-\# Automated MIS Reporting System
+# Automated MIS Reporting System
 
 
 
@@ -8,7 +8,7 @@ Excel (Power Query, pivot tables, VBA) and Power BI.
 
 
 
-\## Dataset
+## Dataset
 
 Olist Brazilian E-Commerce Public Dataset (Kaggle, olistbr).
 
@@ -16,9 +16,9 @@ Download it and place the CSVs in `Data/raw/`. The raw data is not stored in thi
 
 
 
-\## Status
+## Status
 
-\- Day 1: source tables loaded with Power Query
+ Day 1: source tables loaded with Power Query
 
-\- Day 2: Fact\_Orders built with reconciliation checks
+ Day 2: Fact\_Orders built with reconciliation checks
 
